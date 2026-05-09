@@ -1,1 +1,1 @@
-{"root":["./src/vite-env.d.ts","./src/api/api.tsx","./src/footer/footer.tsx","./src/main/main.tsx","./src/navbar/navbar.tsx"],"version":"5.9.3"}
+{"root":["./src/vite-env.d.ts","./src/api/api.tsx","./src/chat/chat.tsx","./src/footer/footer.tsx","./src/login/login.tsx","./src/main/main.tsx","./src/navbar/navbar.tsx"],"version":"5.9.3"}
