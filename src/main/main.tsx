@@ -2,6 +2,7 @@ import React from 'react';
 import { createRoot } from 'react-dom/client';
 import Navbar from '../navbar/navbar';
 import Chat from '../chat/chat';
+import { Footer } from '../footer/footer';
 import '../../static.css';
 
 const rootElement = document.getElementById('root');
@@ -13,5 +14,6 @@ createRoot(rootElement).render(
   <React.StrictMode>
     <Navbar />
     <Chat />
+    <Footer />
   </React.StrictMode>,
 );
